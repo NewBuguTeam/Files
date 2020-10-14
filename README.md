@@ -1,2 +1,5 @@
-# Files
-This is a files of files in our Team
+# NewBuguTeam
+组名好像和最后选的项目相关，就先拿这个名字充数好了
+
+组员包括了：
+1700012899 袁世平
